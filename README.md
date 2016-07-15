@@ -1,6 +1,6 @@
 # foreign_exchange_translations
 
-https://github.com/emilioag/foreign_exchange_translations.git
+git clone https://github.com/emilioag/foreign_exchange_translations.git
 
 cd foreign_exchange_translations
 
