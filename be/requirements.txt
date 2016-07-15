@@ -1,0 +1,4 @@
+ipdb
+bottle
+sqlalchemy
+psycopg2
