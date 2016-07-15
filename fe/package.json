@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.0.6"
+  },
+  "dependencies": {
+    "griddle-react": "^0.6.1",
+    "http-proxy-middleware": "^0.15.2",
+    "react": "^15.2.1"
+  }
+}

@@ -1,0 +1,41 @@
+i {
+    margin-right: 5px;
+}
+.container {
+    margin-top: 20px;
+}
+.row {
+    margin-top: 10px;
+}
+.can-select {
+    cursor: pointer;
+    background: aquamarine;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Lato';
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.can-select:hover {
+    cursor: pointer;
+    background: #6ee2bb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Lato';
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.can-select-selected {
+    cursor: pointer;
+    color: white;
+    background: cornflowerblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Lato';
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
