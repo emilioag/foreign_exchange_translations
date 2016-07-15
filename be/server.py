@@ -10,9 +10,6 @@ import json
 def setup_routing(app):
     app.route('/api/exchange', ['POST'], add_new_entry)
     app.route('/api/exchange', ['GET'], get_all_entries)
-    # app.route('/api/sensors', ['GET'], allSensorIds)
-    # app.route('/api/signals', ['GET'], allSignalIds)
-    # app.route('/api/uploadCSV', ['POST'], uploadFile)
 
 
 response.content_type = 'application/json'
